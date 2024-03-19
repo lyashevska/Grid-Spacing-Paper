@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10838102.svg)](https://doi.org/10.5281/zenodo.10838102)
+
 # GridSpacing-Paper
 
 Data and R-code associated with 'Grid-spacing and the quality of abundance maps for species that show spatial autocorrelation and zero-inflation' paper.
